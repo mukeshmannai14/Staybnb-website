@@ -2,13 +2,6 @@
 
 This project is a responsive front-end clone of the Airbnb website built using **HTML5**, **CSS3**, and **JavaScript**. It recreates the look and feel of Airbnb's homepage with a clean, modern design and focuses on responsive layouts for different screen sizes.
 
-## 🔗 Live Demo
-
-* **Website:** https://your-live-demo-link.com
-
-## 📂 GitHub Repository
-
-* **Source Code:** https://github.com/your-username/your-repository
 
 ## ✨ Features
 
@@ -27,6 +20,11 @@ This project is a responsive front-end clone of the Airbnb website built using *
 * JavaScript
 * Flexbox
 * Media Queries
+
+## 🔗 Live Demo
+
+ **Website:** https://mukeshmannai14.github.io/Staybnb-website/
+
 
 ## 🎯 Purpose
 
