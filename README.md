@@ -1,4 +1,4 @@
-# Staybnb Clone
+# Staybnb website
 
 This project is a responsive front-end clone of the Airbnb website built using **HTML5**, **CSS3**, and **JavaScript**. It recreates the look and feel of Airbnb's homepage with a clean, modern design and focuses on responsive layouts for different screen sizes.
 
